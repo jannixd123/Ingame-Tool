@@ -1,0 +1,15 @@
+C:\Users\SQUTEAMEZ\Desktop\Ingame Tool\Ingame Tool\bin\Debug\Ingame Tool.exe.config
+C:\Users\SQUTEAMEZ\Desktop\Ingame Tool\Ingame Tool\obj\Debug\Ingame Tool.vbprojResolveAssemblyReference.cache
+C:\Users\SQUTEAMEZ\Desktop\Ingame Tool\Ingame Tool\obj\Debug\Ingame_Tool.dagger.resources
+C:\Users\SQUTEAMEZ\Desktop\Ingame Tool\Ingame Tool\obj\Debug\Ingame_Tool.Tools.resources
+C:\Users\SQUTEAMEZ\Desktop\Ingame Tool\Ingame Tool\obj\Debug\Ingame_Tool.Resources.resources
+C:\Users\SQUTEAMEZ\Desktop\Ingame Tool\Ingame Tool\obj\Debug\Ingame Tool.vbproj.GenerateResource.Cache
+C:\Users\SQUTEAMEZ\Desktop\Ingame Tool\Ingame Tool\obj\Debug\Ingame Tool.xml
+C:\Users\SQUTEAMEZ\Desktop\Ingame Tool\Ingame Tool\bin\Debug\Ingame Tool.exe
+C:\Users\SQUTEAMEZ\Desktop\Ingame Tool\Ingame Tool\bin\Debug\Ingame Tool.pdb
+C:\Users\SQUTEAMEZ\Desktop\Ingame Tool\Ingame Tool\bin\Debug\Ingame Tool.xml
+C:\Users\SQUTEAMEZ\Desktop\Ingame Tool\Ingame Tool\obj\Debug\Ingame_Tool.Form1.resources
+C:\Users\SQUTEAMEZ\Desktop\Ingame Tool\Ingame Tool\obj\Debug\Ingame Tool.exe
+C:\Users\SQUTEAMEZ\Desktop\Ingame Tool\Ingame Tool\obj\Debug\Ingame Tool.pdb
+C:\Users\SQUTEAMEZ\Desktop\Ingame Tool\Ingame Tool\obj\Debug\Ingame_Tool.Taser.resources
+C:\Users\SQUTEAMEZ\Desktop\Ingame Tool\Ingame Tool\obj\Debug\Ingame_Tool.cs.resources
